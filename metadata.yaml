@@ -1,0 +1,26 @@
+_repo: Frank-Allen-and-his-motor-boat-or-Racing-to-save-a-life_69509
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forbes, Graham B.
+    gutenberg_agent_id: '2243'
+    url: http://www.gutenberg.org/2009/agents/2243
+description: ''
+gutenberg_issued: '2022-12-09'
+identifiers:
+  gutenberg: '69509'
+language: en
+pgterms:marc905: 20220621174410forbes
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: David Edwards, Bob Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: 'United States: Garden City Publishing,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Frank Allen and his motor boat: or, Racing to save a life'
+url: http://www.gutenberg.org/ebooks/69509
