@@ -1,11 +1,16 @@
 _repo: Frank-Allen-and-his-motor-boat-or-Racing-to-save-a-life_69509
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69509-h/images/cover.jpg
 creator:
   author:
     agent_name: Forbes, Graham B.
     gutenberg_agent_id: '2243'
     url: http://www.gutenberg.org/2009/agents/2243
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69509#Frank-Allen-and-his-motor-boat-or-Racing-to-save-a-life
 gutenberg_issued: '2022-12-09'
 identifiers:
   gutenberg: '69509'
